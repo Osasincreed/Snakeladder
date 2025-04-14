@@ -32,3 +32,5 @@ class Player:
         x, y = self.get_coordinates()
         pygame.draw.circle(screen, self.color, (x, y), 15)
 
+
+# example 
